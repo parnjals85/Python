@@ -10,5 +10,4 @@ elif unit == 'L':
 else:
     print("Invalid unit entered")
     exit()
-
 print(f"Your Weight is: {round(weight, 2)} {unit}")
