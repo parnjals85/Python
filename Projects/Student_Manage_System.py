@@ -11,6 +11,7 @@ while True:
     choice = int(input("Enter Choice : "))
 
     # Add Marks
+    
     if choice == 1:
         Add = int(input("Enter the Student Marks : "))
         marks.append(Add)
